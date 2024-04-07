@@ -1,0 +1,1 @@
+alter table clientes add cpf varchar(14) not null;
