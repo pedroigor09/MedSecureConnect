@@ -30,7 +30,7 @@ The project was developed using the following technologies:
 - Spring Security
 - Jakarta Servlet
 - Swagger (OpenAPI)
-- H2 Database
+- MySQL database
 - JPA (Java Persistence API)
 - Lombok
 - Swagger
